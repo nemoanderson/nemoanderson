@@ -7,9 +7,4 @@ Hi there 👋🏽<br>Welcome to the world of high tech, low life.<br><br>🔭 I�
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nemoanderson&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nemoanderson&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nemoanderson&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nemoanderson&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
