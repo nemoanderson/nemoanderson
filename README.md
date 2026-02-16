@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with getting a paid job or become a Neuromancer.
 
 
-  ![Neuromancer gif man with googles connected to wires and a fag handing out his mouth](https://i.pinimg.com/originals/77/82/3e/77823e42717dd8431a810ec69f22b6a4.gif)
+  ![Neuromancer gif from book by William Gibson man with googles connected to wires and a fag handing out his mouth](https://i.pinimg.com/originals/77/82/3e/77823e42717dd8431a810ec69f22b6a4.gif)
 <!--
 **nemoanderson/nemoanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
