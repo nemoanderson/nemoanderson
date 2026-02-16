@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JavaScript. Just some refresh on important CSS like flex and grid.
 - 🤔 I’m looking for help with getting a paid job.
 
+
+  ![Neuromancer gif man with googles connected to wires and a fag handing out his mouth](https://i.pinimg.com/originals/77/82/3e/77823e42717dd8431a810ec69f22b6a4.gif)
 <!--
 **nemoanderson/nemoanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
