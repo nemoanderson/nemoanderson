@@ -2,7 +2,7 @@
 Welcome to the world of high tech, low life. 
 - 🔭 I’m currently working on a real estate landing page for inbound sellers of off-market properties to assign to buyers of property.  Built with HTML & CSS with a form that sends an email to me when filled out. The buyer landing page is being developed as well and I add as I learn. Also some more projects as a weather app, etc.
 - 🌱 I’m currently learning JavaScript. Just some refresh on important CSS like flex and grid.
-- 🤔 I’m looking for help with getting a paid job or become a Neuromancer.
+- 🤔 I’m looking for help with getting a paid job or creating Neuromancer.
 
 
   ![Neuromancer gif from book by William Gibson man with googles connected to wires and a fag handing out his mouth](https://i.pinimg.com/originals/77/82/3e/77823e42717dd8431a810ec69f22b6a4.gif)
