@@ -15,6 +15,7 @@ I am currently focused on developing IT support skills and preparing for the Com
 - Basic networking concepts
 - Improving JavaScript and web development skills
 - Building small technical projects and problem-solving exercises
+- End-user support workflows and problem resolution
 
 ---
 
@@ -24,11 +25,13 @@ I am currently focused on developing IT support skills and preparing for the Com
 - Built responsive landing pages using HTML, CSS, and JavaScript  
 - Diagnosed and resolved website functionality and form issues  
 - Worked with CMS platforms including WordPress and website builders  
-- Communicated with clients to gather requirements and deliver solutions  
+- Communicated with clients to gather requirements and deliver solutions
+- Provided technical troubleshooting for website issues and updates 
 
 ### Customer-Facing / Operational Roles
-- Worked in fast-paced environments requiring problem-solving and communication  
-- Followed structured procedures and handled customer issues under pressure  
+- Worked in fast-paced environments requiring problem-solving and communication
+- Supported customers by resolving issues under time constraints  
+- Followed procedures and maintained accuracy in high-volume operations  
 - Maintained accuracy and workflow efficiency in high-volume settings  
 
 ---
@@ -36,12 +39,13 @@ I am currently focused on developing IT support skills and preparing for the Com
 ## 🧠 Projects
 
 ### Real Estate Landing Page
-- Built a lead capture landing page with HTML/CSS and form submission handling  
+- Built a lead capture landing page with HTML/CSS
+- Implemented form handling for user submissions
 - Focused on usability, responsiveness, and conversion flow  
 
 ### Web Development Practice
-- Small JavaScript projects including forms and UI components  
-- Responsive design experiments and layout practice  
+- JavaScript-based UI components and form validation  
+- Responsive layout experiments and debugging exercise 
 
 ---
 
@@ -50,8 +54,8 @@ I am currently focused on developing IT support skills and preparing for the Com
 HTML • CSS • JavaScript • PHP (basic)  
 WordPress • CMS Platforms  
 Basic troubleshooting and debugging  
-Windows environments  
-Git / GitHub  
+Windows environments (basic troubleshooting) 
+Git / GitHub version control
 
 ---
 
